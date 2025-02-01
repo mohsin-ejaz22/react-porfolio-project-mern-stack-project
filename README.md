@@ -1,0 +1,1 @@
+This is a React.js frontend portfolio project designed for a modern, responsive, and user-friendly web experience. It features dynamic UI components, API integration, and state management for smooth interactions.
